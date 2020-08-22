@@ -26,3 +26,7 @@ M. Zhang, Z. Xie, C. Yue, Z Zhong. “Spitz: A Verifiable Database System” Pro
 C. Yue. Z. Xue, M. Zhang, G. Chen, B. C. Ooi, S. Wang, X. Xiao. “Analysis of Indexing Structures for Immutable Data” ACM International Conference on Management of Data (SIGMOD), 2020
 
 S. Wang, T. T. A . Dinh, Q. Lin, Z. Xie, M. Zhang, Q. Cai, G. Chen, B.C. Ooi and P. Ruan. “ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications” Proceedings of the VLDB Endowment, 2018
+
+<style type="text/css">
+img{text-align: center; margin: 0 auto;}
+</style>
