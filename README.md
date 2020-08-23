@@ -3,12 +3,18 @@
 ## Overview
 Spitz is a verifiable database system, which targets on businesses involving mutually distrustful or malicious parties. Spitz protects integrity of the data, of its provenance, and of its query execution. More specifically, any tampering such as changing the data content, changing a historical record, or modifying query results, can be detected. We note that the demand for verification is on the rise due to the requirements imposed by the regulators on various business sectors, investment and banking in particular.
 
+<div style="text-align: center;">
+
 ![System overview.](figures/fig1.png)
+</div>
 
 Spitz is immutable, data cannot be modified or deleted once committed; transparent, all history data can be accessed efficiently; verifiable, fast verification is facilitated with proposed authentication data structure (ADS); and scalable, it scales to large number of nodes.
 
 ## Architecture
+<div style="text-align: center;">
+
 ![System architecture.](figures/fig2.png)
+</div>
 
 The control layer consists of multiple processor nodes that accept and process requests from a global message queue. Each node has three main components: a request handler, an auditor, and a transaction manager (TM). The request handler accepts query requests and returns the results with the corresponding proofs. The auditor communicates with the ledger in the storage layer to keep track of data changes. The transaction manager controls the execution of the queries in the storage.
 
