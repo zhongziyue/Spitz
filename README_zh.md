@@ -21,7 +21,7 @@ Spitz中的数据具有以下特点：(1) 不变性，一旦提交就不能被�
 
 **索引：** Spitz使用带有ADS的B+树作为索引结构，可以提供高效的查询和验证功能。
 
-**待排索引：** 倒排索引与ADS一起使用，可以提供快速的分析查询处理。
+**倒排索引：** 倒排索引与ADS一起使用，可以提供快速的分析查询处理。
 
 ## 发表论文
 + M. Zhang, Z. Xie, C. Yue, Z Zhong. [“Spitz: A Verifiable Database System”](https://www.comp.nus.edu.sg/~dbsystem/download/meihui-VLDB20-verification-paper.pdf) Proceedings of the VLDB Endowment, 2020
