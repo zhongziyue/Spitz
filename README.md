@@ -21,8 +21,8 @@ The storage layer features a distributed storage engine, namely ForkBase. Built 
 **Inverted index:** inverted index is used with ADS to provide fast processing of analytic queries.
 
 ## Publications
-M. Zhang, Z. Xie, C. Yue, Z Zhong. [“Spitz: A Verifiable Database System”](https://www.comp.nus.edu.sg/~dbsystem/download/meihui-VLDB20-verification-paper.pdf) Proceedings of the VLDB Endowment, 2020
++ M. Zhang, Z. Xie, C. Yue, Z Zhong. [“Spitz: A Verifiable Database System”](https://www.comp.nus.edu.sg/~dbsystem/download/meihui-VLDB20-verification-paper.pdf) Proceedings of the VLDB Endowment, 2020
 
-C. Yue. Z. Xue, M. Zhang, G. Chen, B. C. Ooi, S. Wang, X. Xiao. [“Analysis of Indexing Structures for Immutable Data”](https://arxiv.org/pdf/2003.02090.pdf) ACM International Conference on Management of Data (SIGMOD), 2020
++ C. Yue. Z. Xue, M. Zhang, G. Chen, B. C. Ooi, S. Wang, X. Xiao. [“Analysis of Indexing Structures for Immutable Data”](https://arxiv.org/pdf/2003.02090.pdf) ACM International Conference on Management of Data (SIGMOD), 2020
 
-S. Wang, T. T. A . Dinh, Q. Lin, Z. Xie, M. Zhang, Q. Cai, G. Chen, B.C. Ooi and P. Ruan. [“ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications”](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf) Proceedings of the VLDB Endowment, 2018
++ S. Wang, T. T. A . Dinh, Q. Lin, Z. Xie, M. Zhang, Q. Cai, G. Chen, B.C. Ooi and P. Ruan. [“ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications”](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf) Proceedings of the VLDB Endowment, 2018
